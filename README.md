@@ -2,6 +2,8 @@
 
 ![snapshot](images/signup_page.png)
 
+![snapshot](images/details.png)
+
 A simple **Signup Form** application built using the **LEMP Stack (Linux, Nginx, MariaDB, PHP)** on an AWS EC2 instance.
 
 The application allows users to submit their information through a signup form, which is then stored in a MariaDB database using PHP.
