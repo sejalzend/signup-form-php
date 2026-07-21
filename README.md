@@ -1,6 +1,6 @@
 # This is a simple signup form
 
-Simple Signup Application using:
+Simple Signup Application using LEMP:
 
 - HTML
 - PHP
